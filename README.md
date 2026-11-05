@@ -25,4 +25,4 @@ The research is based on a first-hand read of [`xai-org/x-algorithm`](https://gi
 - X: [@thinkcompact](https://x.com/thinkcompact) (company) · [@varundaiya](https://x.com/varundaiya) (founder)
 - Web: [compactintelligence.in](https://compactintelligence.in) · [The thesis: "After the Wall"](https://compactintelligence.in/blog/after-the-wall)
 
-*The xAI algorithm source itself is not vendored here — read it at [github.com/xai-org/x-algorithm](https://github.com/xai-org/x-algorithm). All file:line citations in the report refer to that repository.*
+*The full xAI algorithm source studied for this report (commit `021afa4`, Apache-2.0) is vendored in [`x-algorithm/`](x-algorithm/) with its license intact; the upstream lives at [github.com/xai-org/x-algorithm](https://github.com/xai-org/x-algorithm). All file:line citations in the report refer to that tree.*
